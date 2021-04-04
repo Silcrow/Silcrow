@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Silcrow
-- 👀 I’m interested in automation, strategy, and money.
+- 👀 I’m interested in automation, analysis, and money.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on anything scientific, logical, or technological.
 - 📫 How to reach me: sangsan.prohmvitak@gmail.com
