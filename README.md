@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Silcrow
-- 👀 I’m interested in automation, analysis, and money.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on anything scientific, logical, or technological.
+- 👀 I’m interested in practical science, efficiency, and money.
+- 🌱 I’m currently learning Flask.
+- 💞️ I’m looking to work on anything scientific, logical, or technological that I can do.
 - 📫 How to reach me: sangsan.prohmvitak@gmail.com
 
 <!---
