@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Silcrow
 - 👀 I’m interested in practical science, efficiency, and money.
-- 🌱 I’m currently learning Flask.
+- 🌱 I’m currently learning Backend Development.
 - 💞️ I’m looking to work on anything scientific, logical, or technological that I can do.
 - 📫 How to reach me: sangsan.prohmvitak@gmail.com
 
