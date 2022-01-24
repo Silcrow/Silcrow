@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Silcrow
-- 👀 I’m interested in practical science, efficiency, and money.
-- 🌱 I’m currently learning Backend Development & REST API.
-- 💞️ I’m looking to work on anything scientific, logical, or technological that I can do.
+- 🌱 I’m currently learning REST API & FARM stack.
 - 📫 How to reach me: sangsan.prohmvitak@gmail.com
 
 <!---
