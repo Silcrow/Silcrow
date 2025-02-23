@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&width=435&lines=Hey%2C+I'm+Silcrow!;Self-taught+programmer;Science+nerd!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&width=435&lines=Meet%2C+The+Silcrow;Self-taught+programmer;Science+nerd)](https://git.io/typing-svg)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Silcrow&color=blue)  
 
 ### 📫 Connect me via
