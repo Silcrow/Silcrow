@@ -25,6 +25,6 @@
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white) &nbsp;
 ![Penv](https://img.shields.io/badge/Penv-000000?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![Venv](https://img.shields.io/badge/Venv-000000?style=for-the-badge&logo=python&logoColor=white) &nbsp;
-![Arduino C](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
+![Arduino C](https://img.shields.io/badge/Arduino-009688?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
