@@ -24,6 +24,7 @@
 ![Brew](https://img.shields.io/badge/Homebrew-FFDD00?style=for-the-badge&logo=homebrew&logoColor=black) &nbsp;
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white) &nbsp;
 ![Penv](https://img.shields.io/badge/Penv-000000?style=for-the-badge&logo=python&logoColor=white) &nbsp;
-![Venv](https://img.shields.io/badge/Venv-000000?style=for-the-badge&logo=python&logoColor=white)
+![Venv](https://img.shields.io/badge/Venv-000000?style=for-the-badge&logo=python&logoColor=white) &nbsp;
+![Arduino C](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
 
 ---
