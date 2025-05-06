@@ -3,6 +3,7 @@
 ### 📫 Connect me via
 🔹 [LinkedIn](https://www.linkedin.com/in/sangsan-prohmvitak/)  
 🔹 [GitHub](https://github.com/Silcrow)  
+🔹 [Kaggle](https://www.kaggle.com/sangsan)
 
 ---
 
